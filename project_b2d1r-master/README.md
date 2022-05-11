@@ -3,10 +3,10 @@
 ## About Genshin Impact
 
 Genshin Impact is an action role-playing game that features an open-world
-environment developed by Chinese developer miHoYo. It is free-to-play, and is monetized
+environment developed by Chinese developer Hoyoverse. It is free-to-play, and is monetized
 through an in-game gacha game mechanism that allows for players to obtain new limited characters and weapons
 to help them strengthen their team for battle, challenges, and events. Genshin Impact's battle system is mainly
-focused on elemental energy (called "visions") so players will need to rely on elemental reactions to aid their team's
+focused on manipulating elemental energy (called "visions") so players will need to rely on elemental reactions to aid their team's
 overall damage output.
 
 **The Seven Elements**
